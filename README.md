@@ -20,27 +20,15 @@ Minha principal motivação é **transformar a vida das pessoas por meio de tecn
  
 **BI & Visualização:**  
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
- ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
 **APIs & Integrações:**  
 
-![REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white)  
-![Automação](https://img.shields.io/badge/Automation-FF6F00?logo=apacheairflow&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST-02569B?logo=api&logoColor=white) ![Automação](https://img.shields.io/badge/Automation-FF6F00?logo=apacheairflow&logoColor=white)  
 
 **Outros:**  
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0089D6?logo=microsoft&logoColor=white)  
-![ITIL](https://img.shields.io/badge/ITIL-5A2D81?logo=knowledgebase&logoColor=white)  
-
-## 📜 Certificações:
-
-- Oracle Cloud Data Management 2022 Certified Associate
-- BigQuery for Data Analysts – Google Cloud
-- Power BI – Santander Open Academy
-- Banco de Dados e SQL – Udemy
-- PHP do Zero à Maestria – Udemy
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0089D6?logo=microsoft&logoColor=white) ![ITIL](https://img.shields.io/badge/ITIL-5A2D81?logo=knowledgebase&logoColor=white)  
 
 ## 📫 Contato
 
